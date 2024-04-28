@@ -13,7 +13,7 @@ function App() {
     <div className='flex flex-col'>
 
         <Header></Header>
-        <Buttons></Buttons>
+        
         <NoteContent ></NoteContent>
         
     </div>
